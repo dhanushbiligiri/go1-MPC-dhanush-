@@ -28,3 +28,9 @@ or use cmake tool to debug from VSCode while will run the target file(mjpc).
 Below mentioned are a few key features.
 - **File** has the options to print model and print data.
 - In **Options** enable the Right UI to see the joint and control data.
+
+
+
+
+
+ROLACROLACROLAC
